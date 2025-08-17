@@ -1,11 +1,15 @@
-# Simple Calculator
-A basic calculator built using HTML, CSS, and JavaScript.
+# CODSOFT Internship Projects
 
-## Features
-- Addition, subtraction, multiplication, and division
-- Clear and reset buttons
-- Responsive design
+This repository contains my internship tasks for CodSoft.
 
-## How to Use
-Open `index.html` in your browser to use the calculator.
+## Projects
+
+### 1. Portfolio Website
+- A personal portfolio built with HTML, CSS, and JavaScript.
+- [View Code](./Portfolio-Website)
+
+### 2. Simple Calculator
+- A basic calculator built using HTML, CSS, and JavaScript.
+- [View Code](./Simple-Calculator)
+
 
