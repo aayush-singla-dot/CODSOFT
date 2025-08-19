@@ -5,11 +5,13 @@ This repository contains my internship tasks for CodSoft.
 ## Projects
 
 ### 1. Portfolio Website
-- A personal portfolio built with HTML, CSS, and JavaScript.
+- A personal portfolio built with HTML, CSS, and JavaScript.  
 - [View Code](./Portfolio-Website)
 
 ### 2. Simple Calculator
-- A basic calculator built using HTML, CSS, and JavaScript.
+- A basic calculator built using HTML, CSS, and JavaScript.  
 - [View Code](./Simple-Calculator)
 
-
+### 3. Landing Page
+- A simple landing page designed using HTML and CSS with a hero section, navigation, and call-to-action.  
+- [View Code](./LandingPage)
